@@ -1,4 +1,4 @@
-*Pikachu python project*
+**Pikachu python project**
 
 Pikachu-themed Python project:
 
