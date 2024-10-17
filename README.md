@@ -1,7 +1,7 @@
 
-**Pikachu-themed Python project:**
-![download](https://github.com/user-attachments/assets/bbc76d15-4961-43db-99b7-9c6f683f52a6)
 
+![download](https://github.com/user-attachments/assets/bbc76d15-4961-43db-99b7-9c6f683f52a6)
+**Pikachu-themed Python project:**
 Objective: Create a Pikachu-themed project, possibly a game, application, or learning tool, using Python.
 
 **Project Idea:**
