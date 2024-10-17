@@ -1,15 +1,15 @@
-#Pikachu python project
+#Pikachu python project#
 
-Pikachu-themed Python project:
+**Pikachu-themed Python project:**
 
 Objective: Create a Pikachu-themed project, possibly a game, application, or learning tool, using Python.
 
-Project Idea:
+**Project Idea:**
 
 A Pikachu Quiz Game where players answer questions about Pikachu or Pokémon.
 A Pikachu Adventure Game using Pygame, where Pikachu navigates different levels, collecting items and avoiding obstacles.
 A Pikachu Reaction Timer that challenges users to react as quickly as Pikachu’s electric attack.
-Libraries:
+**Libraries:**
 
 Use Pygame for game development or animations.
 Tkinter or Kivy for a GUI application.
@@ -21,7 +21,7 @@ Animated Pikachu using Pygame or GIFs in Tkinter.
 Sound effects for Pikachu's iconic voice (Pi-ka!).
 Different levels or stages based on Pokémon environments.
 Scoreboard or points system for quiz or game success.
-Enhancements:
+**Enhancements:**
 
 Multiplayer mode for the game.
 Database integration to store user scores or progress.
