@@ -1,4 +1,4 @@
-pikachu python project
+**Pikachu python project**
 
 Key Points for Effective Comments:
 Explain the purpose of functions: Clearly describe what each function does.
