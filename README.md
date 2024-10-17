@@ -1,6 +1,3 @@
-Pikachu python project
-![download](https://github.com/user-attachments/assets/148235a8-37d4-4b9d-9ef4-5ff3c9c40479)
-
 
 **Pikachu-themed Python project:**
 ![download](https://github.com/user-attachments/assets/bbc76d15-4961-43db-99b7-9c6f683f52a6)
